@@ -11,3 +11,5 @@
 • Déduplication intelligente et tri intelligent,utilisation de groupe pour augmenter la rapidité et autorise Unknown pour streamfusion uniquement,ajout de stremthru store pour avoir les flux télécharger récent en cache,uniquement les contenu uncached de streamfusion
 
 • Entièrement fonctionnel avec torbox et les autre débrideur des problème de cache stremtrhu
+
+a utiliser avec l'instance https://aiostreamsfortheweebs.midnightignite.me/ pour ne pas avoir de limite stremtrhu
