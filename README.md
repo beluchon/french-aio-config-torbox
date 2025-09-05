@@ -1,13 +1,13 @@
 # french-aio-config
 
-🎬 AIOStreams French Edition Config 🚀
+🎬 Configuration AIOStreams Édition française 🚀
 
-✨ What's included:
+✨ Ce qui est inclus :
 
-• 7+ handpicked addons (Torrentio, streamfusion, MediaFusion, TorrentsDB, etc.)
+• Plus de 7 add-ons sélectionnés avec soin (Torrentio, streamfusion, MediaFusion, TorrentsDB, etc.)
 
-• remove hdr/dv + 3d +av1
+• Suppression hdr/dv + 3d +av1
 
-•Intelligent deduplication and sorting, use of groups to increase speed and allow Unknown for StreamFusion only, addition of StreamThru Store to cache recently downloaded streams, only uncached content from StreamFusion.
+• Déduplication intelligente et tri intelligent,utilisation de groupe pour augmenter la rapidité et autorise Unknown pour streamfusion uniquement,ajout de stremthru store pour avoir les flux télécharger récent en cache,uniquement les contenu uncached de streamfusion
 
-• Fully functional with Torbox and other tools that solve cache issues.
+• Entièrement fonctionnel avec torbox et les autre débrideur des problème de cache stremtrhu
