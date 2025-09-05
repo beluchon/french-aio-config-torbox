@@ -14,6 +14,8 @@
 
 a utiliser avec l'instance https://aiostreamsfortheweebs.midnightignite.me/ pour ne pas avoir de limite stremtrhu
 
+pour utiliser Jackettiofr il faut mettre le json de l'instance https://jackettio.stremiofr.com dans 'Jackttio' sur aio
 
 
 Et pour le catalogue https://aiometadatafortheweebs.midnightignite.me/configure/
+
