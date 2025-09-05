@@ -1,4 +1,4 @@
-# french-aio-config---et-metadata
+# french-aio-config-et-metadata
 
 🎬 Configuration AIOStreams Édition française 🚀
 
