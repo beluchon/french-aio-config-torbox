@@ -13,6 +13,7 @@
 • Entièrement fonctionnel avec torbox et les autre débrideur des problème de cache stremtrhu
 
 a utiliser avec l'instance https://aiostreamsfortheweebs.midnightignite.me/ pour ne pas avoir de limite stremtrhu
+avec le mode pro
 
 pour utiliser Jackettiofr il faut mettre le json de l'instance https://jackettio.stremiofr.com dans 'Jackttio' sur aio
 
