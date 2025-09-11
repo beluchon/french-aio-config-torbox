@@ -18,3 +18,4 @@ avec le mode pro de aio
 
 pour utiliser Jackettiofr il faut mettre le json de l'instance https://jackettio.stremiofr.com dans 'Jackttio' sur aio
 
+https://www.youtube.com/watch?v=YXUxQJRUvEg
