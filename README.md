@@ -12,7 +12,7 @@
 
 • Entièrement fonctionnel avec torbox, et les autre débrideur des problème de cache stremtrhu
 
-a utiliser avec l'instance https://aiostreamsfortheweebs.midnightignite.me/ pour ne pas avoir de limite stremtrhu
+a utiliser avec l'instance https://aiostreams.stremio.ru/ pour ne pas avoir de limite stremtrhu
 
 avec le mode pro de aio
 
