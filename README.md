@@ -14,7 +14,7 @@
 
 a utiliser avec l'instance https://aiostreams.stremio.ru/ pour ne pas avoir de limite stremtrhu
 
-avec le mode pro de aio
+avec le mode advanced de aio
 
 https://www.youtube.com/watch?v=YXUxQJRUvEg
 
