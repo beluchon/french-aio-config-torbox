@@ -17,3 +17,4 @@ a utiliser avec l'instance https://aiostreams.stremio.ru/ pour ne pas avoir de l
 avec le mode pro de aio
 
 https://www.youtube.com/watch?v=YXUxQJRUvEg
+<img width="1405" height="890" alt="2025-10-15_19-33" src="https://github.com/user-attachments/assets/847f44d8-3bb8-4a7a-bdbe-3aab89f9f4f3" />
