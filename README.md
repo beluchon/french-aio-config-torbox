@@ -21,7 +21,16 @@ avec le mode advanced de aio
 ❗ Note supplémentaire
 
 Cette configuration supprime automatiquement les tags et groupes non français, garantissant ainsi un filtrage des flux plus ciblé et adapté aux utilisateurs francophones.
+-
+-📺 Pour aller plus loin
+
+Utilise le mode Advanced d’AIOStreams pour personnaliser encore plus ta sélection de flux et groupes.
+
+Tutoriel vidéo détaillé disponible ici :
 https://www.youtube.com/watch?v=YXUxQJRUvEg
+
+Pour plus d’infos et mises à jour :
+https://aiostreams.stremio.ru/
 
 Très important activer ces deux options dans torbox
 <img width="1405" height="890" alt="2025-10-15_19-33" src="https://github.com/user-attachments/assets/847f44d8-3bb8-4a7a-bdbe-3aab89f9f4f3" />
