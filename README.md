@@ -1,19 +1,21 @@
 # french-aio-config torbox
 
-🎬 Configuration AIOStreams Édition française 🚀
+🎬 Configuration AIOStreams – Édition Française 🚀
+✨ Ce que contient cette configuration :
 
-✨ Ce qui est inclus :
+Plus de 12 add-ons triés sur le volet, dont Torz, Streamfusion, MediaFusion, et bien d’autres, pour une expérience optimale.
 
-• Plus de 7 add-ons sélectionnés avec soin (Torrentio, streamfusion, MediaFusion, TorrentsDB, etc.)
+Filtrage avancé des flux : suppression automatique des tags HDR, Dolby Vision (DV), 3D et AV1 pour privilégier la compatibilité et la fluidité.
 
-• Suppression hdr/dv + 3d +av1
+Déduplication intelligente et tri optimisé des flux, avec utilisation de groupes personnalisés pour accélérer la recherche et le chargement.
 
-• Déduplication intelligente et tri intelligent,utilisation de groupe pour augmenter la rapidité et autorise Unknown pour streamfusion uniquement,ajout de stremthru store pour avoir les flux télécharger récent en cache,uniquement les contenu uncached de streamfusion
+Autorisation spécifique des flux “Unknown” uniquement pour certains addons sélectionnés comme Streamfusion, Torbox et Jackettio.
 
-• Entièrement fonctionnel avec torbox, et les autre débrideur des problème de cache stremtrhu
+Ajout de Streamthru Store et Torbox pour accéder rapidement aux flux récemment téléchargés en cache.
 
-a utiliser avec l'instance https://aiostreams.stremio.ru/ pour ne pas avoir de limite stremtrhu
+Filtrage strict des flux : seuls les contenus uncached provenant de Streamfusion, Jackett et Comet sont pris en compte pour éviter les doublons et problèmes de cache.
 
+Compatibilité et optimisation totale avec Torbox et les autres débrideurs, en particulier pour régler les soucis de cache avec Streamthru.
 avec le mode advanced de aio
 
 https://www.youtube.com/watch?v=YXUxQJRUvEg
