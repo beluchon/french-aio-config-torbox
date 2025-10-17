@@ -18,6 +18,9 @@ Filtrage strict des flux : seuls les contenus uncached provenant de Streamfusion
 Compatibilité et optimisation totale avec Torbox et les autres débrideurs, en particulier pour régler les soucis de cache avec Streamthru.
 avec le mode advanced de aio
 
+❗ Note supplémentaire
+
+Cette configuration supprime automatiquement les tags et groupes non français, garantissant ainsi un filtrage des flux plus ciblé et adapté aux utilisateurs francophones.
 https://www.youtube.com/watch?v=YXUxQJRUvEg
 
 Très important activer ces deux options dans torbox
