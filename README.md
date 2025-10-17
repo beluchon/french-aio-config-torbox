@@ -29,7 +29,7 @@ Utilise le mode Advanced d’AIOStreams pour personnaliser encore plus ta sélec
 Tutoriel vidéo détaillé disponible ici :
 https://www.youtube.com/watch?v=YXUxQJRUvEg
 
-Pour plus d’infos et mises à jour :
+aio utiliser:
 https://aiostreams.stremio.ru/
 
 Très important activer ces deux options dans torbox
