@@ -7,7 +7,7 @@ Plus de 12 add-ons triés sur le volet, dont Torz, Streamfusion, MediaFusion, et
 
 Filtrage avancé des flux : suppression des tags HDR/DV, 3D et AV1 pour privilégier la compatibilité et la fluidité.
 
-Déduplication intelligente et tri optimisé des flux, avec utilisation de groupes personnalisés pour accélérer la recherche et le chargement.
+Déduplication intelligente et tri optimisé des flux, avec utilisation d'exit condition pour accélérer la recherche et le chargement.
 
 Autorisation spécifique des flux “Unknown” uniquement pour certains addons sélectionnés comme Streamfusion, Torbox et Jackettio.
 
