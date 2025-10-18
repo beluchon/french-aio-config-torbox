@@ -13,7 +13,7 @@ Autorisation spécifique des flux “Unknown” uniquement pour certains addons 
 
 Ajout de Streamthru Store et Torbox pour accéder rapidement aux flux récemment téléchargés en cache.
 
-Filtrage strict des flux : seuls les contenus uncached provenant de Streamfusion, Jackett et Comet sont pris en compte pour éviter les doublons et problèmes de cache.
+Filtrage strict des flux : seuls les contenus uncached provenant de Streamfusion, Jackett et Comet sont pris en compte (lier a ygg)
 
 Compatibilité et optimisation totale avec Torbox et les autres débrideurs, en particulier pour régler les soucis de cache avec Streamthru.
 avec le mode advanced de aio
