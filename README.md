@@ -15,7 +15,7 @@ Ajout de Streamthru Store et Torbox pour accéder rapidement aux flux récemment
 
 Filtrage strict des flux : seuls les contenus uncached provenant de Streamfusion, Jackett et Comet sont pris en compte (lier a ygg)
 
-Compatibilité et optimisation totale avec Torbox et les autres débrideurs, en particulier pour régler les soucis de cache avec Streamthru.
+Compatibilité et optimisation totale avec Torbox
 
 ❗ Note supplémentaire
 
