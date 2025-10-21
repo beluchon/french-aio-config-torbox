@@ -25,9 +25,9 @@ Cette configuration supprime automatiquement les tags et groupes non français, 
 
 Utilise le mode Advanced d’AIOStreams pour personnaliser encore plus ta sélection de flux et groupes.
 
-utiliser importe template
+utiliser import template
 
-https://stream-fusion.stremiofr.com/configure désavtiver public cache et zilean dmm et mettre le .json dans aio
+https://stream-fusion.stremiofr.com/configure désactiver public cache et zilean dmm et mettre le .json dans aio
 
 aio utiliser:
 https://aiostreams.stremio.ru/
