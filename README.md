@@ -1,5 +1,7 @@
 # french-aio-config torbox
 
+https://torbox.app/subscription?referral=5daecbad-00af-4e2d-af48-123ca49c1947
+
 🎬 Configuration AIOStreams – Édition Française 🚀
 ✨ Ce que contient cette configuration :
 
