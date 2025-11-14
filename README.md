@@ -29,7 +29,7 @@ Utilise le mode Advanced d’AIOStreams pour personnaliser encore plus ta sélec
 
 utiliser import template
 
-https://stream-fusion.stremiofr.com/configure désactiver public cache et zilean dmm et mettre le .json dans aio
+mettre l'api key de streamfusion dans l'addon
 
 aio utiliser:
 https://aiostreams.stremio.ru/
