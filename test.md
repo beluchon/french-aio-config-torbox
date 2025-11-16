@@ -35,7 +35,7 @@ AIO recommandé : ⛔⛔ aucune autre instance publique ne pourra fonctionner av
 
 👉https://aio.atbphosting.com
 
-👉https://aiostreamsfortheweak.nhyira.dev pas encore disponible
+👉https://aiostreamsfortheweak.nhyira.dev 
 
 Très important activer ces deux options dans torbox
 
