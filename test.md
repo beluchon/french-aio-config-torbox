@@ -41,6 +41,6 @@ Très important activer ces deux options dans torbox
 
 https://www.torbox.app/subscription?referral=5daecbad-00af-4e2d-af48-123ca49c1947
 
-https://youtu.be/LGtl-8-jMO0
+‼️‼️‼️‼️ https://youtu.be/LGtl-8-jMO0
 
 <img width="1405" height="890" alt="2025-10-15_19-33" src="https://github.com/user-attachments/assets/847f44d8-3bb8-4a7a-bdbe-3aab89f9f4f3" />
