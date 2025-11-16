@@ -6,8 +6,6 @@ pas de débrideur ? ➡️ Teste Torbox ici : https://www.torbox.app/subscriptio
 
 - Plus de 12 add-ons premium sélectionnés (Torz, Streamfusion, MediaFusion, Torbox, Jackettio, Comet, etc.) pour une expérience ultra-complète.
 
-- Filtrage avancé des flux : suppression automatique des tags HDR/DV, 3D et AV1 pour maximiser fluidité et compatibilité.
-
 - Tri intelligent + déduplication avec exit conditions pour accélérer la recherche et réduire les temps de chargement.
 
 - Gestion contrôlée des flux Unknown : autorisés uniquement pour des add-ons précis (Streamfusion, Torbox, Jackettio).
