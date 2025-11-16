@@ -2,27 +2,23 @@
 
 pas de débrideur ? ➡️ Teste Torbox ici : https://www.torbox.app/subscription?referral=5daecbad-00af-4e2d-af48-123ca49c1947
 
-🎬 Configuration AIOStreams – Édition Française 🚀
-✨ Ce que contient cette configuration :
+✨ Contenu de cette configuration :
 
-Plus de 12 add-ons triés sur le volet, dont Torz, Streamfusion, MediaFusion, et bien d’autres, pour une expérience optimale.
+Plus de 12 add-ons premium sélectionnés (Torz, Streamfusion, MediaFusion, Torbox, Jackettio, Comet, etc.) pour une expérience ultra-complète.
 
-Filtrage avancé des flux : suppression des tags HDR/DV, 3D et AV1 pour privilégier la compatibilité et la fluidité.
+Filtrage avancé des flux : suppression automatique des tags HDR/DV, 3D et AV1 pour maximiser fluidité et compatibilité.
 
-Déduplication intelligente et tri optimisé des flux, avec utilisation d'exit condition pour accélérer la recherche et le chargement.
+Tri intelligent + déduplication avec exit conditions pour accélérer la recherche et réduire les temps de chargement.
 
-Autorisation spécifique des flux “Unknown” uniquement pour certains addons sélectionnés comme Streamfusion, Torbox et Jackettio.
+Gestion contrôlée des flux Unknown : autorisés uniquement pour des add-ons précis (Streamfusion, Torbox, Jackettio).
 
-Ajout de Streamthru Store et Torbox pour accéder rapidement aux flux récemment téléchargés en cache.
+Intégration de Streamthru Store et Torbox pour un accès instantané aux contenus déjà pré-téléchargés en cache.
 
-Filtrage strict des flux : seuls les contenus uncached provenant de Streamfusion, Jackett et Comet sont pris en compte (lier a ygg)
+Filtrage strict des flux uncached provenant uniquement de Streamfusion, Jackett et Comet (recommandé pour le lien avec YGG).
 
-Compatibilité et optimisation totale avec Torbox
-
+Optimisation complète pour Torbox, avec les options essentielles à activer (voir lien + tuto vidéo).
 ❗ Note supplémentaire
 
-Cette configuration supprime automatiquement les tags et groupes non français, garantissant ainsi un filtrage des flux plus ciblé et adapté aux utilisateurs francophones.
--
 -📺 Pour aller plus loin
 
 Utilise le mode Advanced d’AIOStreams pour personnaliser encore plus ta sélection de flux et groupes.
