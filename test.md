@@ -30,6 +30,7 @@ Toutes les sources, groupes et tags non-FR sont automatiquement filtrés grâce 
 - N’oublie pas d’ajouter ton API Key Streamfusion dans l’add-on.
 
 AIO recommandé : ⛔⛔ aucune autre instance publique ne pourra fonctionner avec les regex
+
 👉 https://aiostreams.stremio.ru
 
 👉https://aiostreams.stremiofr.com
