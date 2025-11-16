@@ -4,20 +4,24 @@ pas de débrideur ? ➡️ Teste Torbox ici : https://www.torbox.app/subscriptio
 
 ✨ Contenu de cette configuration :
 
-Plus de 12 add-ons premium sélectionnés (Torz, Streamfusion, MediaFusion, Torbox, Jackettio, Comet, etc.) pour une expérience ultra-complète.
+- Plus de 12 add-ons premium sélectionnés (Torz, Streamfusion, MediaFusion, Torbox, Jackettio, Comet, etc.) pour une expérience ultra-complète.
 
-Filtrage avancé des flux : suppression automatique des tags HDR/DV, 3D et AV1 pour maximiser fluidité et compatibilité.
+- Filtrage avancé des flux : suppression automatique des tags HDR/DV, 3D et AV1 pour maximiser fluidité et compatibilité.
 
-Tri intelligent + déduplication avec exit conditions pour accélérer la recherche et réduire les temps de chargement.
+- Tri intelligent + déduplication avec exit conditions pour accélérer la recherche et réduire les temps de chargement.
 
-Gestion contrôlée des flux Unknown : autorisés uniquement pour des add-ons précis (Streamfusion, Torbox, Jackettio).
+- Gestion contrôlée des flux Unknown : autorisés uniquement pour des add-ons précis (Streamfusion, Torbox, Jackettio).
 
-Intégration de Streamthru Store et Torbox pour un accès instantané aux contenus déjà pré-téléchargés en cache.
+- Intégration de Streamthru Store et Torbox pour un accès instantané aux contenus déjà pré-téléchargés en cache.
 
-Filtrage strict des flux uncached provenant uniquement de Streamfusion, Jackett et Comet (recommandé pour le lien avec YGG).
+- Filtrage strict des flux uncached provenant uniquement de Streamfusion, Jackett et Comet (recommandé pour le lien avec YGG).
 
 Optimisation complète pour Torbox, avec les options essentielles à activer (voir lien + tuto vidéo).
 ❗ Note supplémentaire
+---
+🎯 Précision FR : 100% grâce aux Regex
+
+Toutes les sources, groupes et tags non-FR sont automatiquement filtrés grâce à un système de regex avancées, garantissant un ciblage parfait du contenu francophone (100% de précision).
 
 -📺 Pour aller plus loin
 
