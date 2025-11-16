@@ -20,7 +20,7 @@ pas de débrideur ? ➡️ Teste Torbox ici : https://www.torbox.app/subscriptio
 🎯 Précision FR : 100% grâce aux Regex
 
 Toutes les sources, groupes et tags non-FR sont automatiquement filtrés grâce à un système de regex avancées, garantissant un ciblage parfait du contenu francophone (100% de précision).
-
+---
 -📺 Pour aller plus loin
 
 Utilise le mode Advanced d’AIOStreams pour personnaliser encore plus ta sélection de flux et groupes.
