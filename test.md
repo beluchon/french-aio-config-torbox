@@ -1,7 +1,7 @@
 # 🇫🇷 Configuration AIOStreams – Édition Française (Optimisée Torbox) 🚀
 
 pas de débrideur ? ➡️ Teste Torbox ici : https://www.torbox.app/subscription?referral=5daecbad-00af-4e2d-af48-123ca49c1947
-
+---
 ✨ Contenu de cette configuration :
 
 - Plus de 12 add-ons premium sélectionnés (Torz, Streamfusion, MediaFusion, Torbox, Jackettio, Comet, etc.) pour une expérience ultra-complète.
