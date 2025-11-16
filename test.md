@@ -12,7 +12,7 @@ pas de débrideur ? ➡️ Teste Torbox ici : https://www.torbox.app/subscriptio
 
 - Intégration de Streamthru Store et Torbox pour un accès instantané aux contenus déjà pré-téléchargés en cache.
 
-- Filtrage strict des flux uncached provenant uniquement de Streamfusion, Jackett et Comet (recommandé pour le lien avec YGG).
+- Filtrage strict des flux uncached provenant uniquement de Streamfusion, Jackett et Comet (lier avec YGG).
 
 ---
 🎯 Précision FR : 99% grâce aux Regex
