@@ -21,16 +21,19 @@ pas de débrideur ? ➡️ Teste Torbox ici : https://www.torbox.app/subscriptio
 
 Toutes les sources, groupes et tags non-FR sont automatiquement filtrés grâce à un système de regex avancées, garantissant un ciblage parfait du contenu francophone (100% de précision).
 ---
--📺 Pour aller plus loin
+🔧 Pour aller plus loin
 
-Utilise le mode Advanced d’AIOStreams pour personnaliser encore plus ta sélection de flux et groupes.
+- Utilise le mode Advanced d’AIOStreams pour personnaliser tes groupes, règles et filtres.
 
-utiliser import template
+- Pense à importer le template dédié.
 
-mettre l'api key de streamfusion dans l'addon
+- N’oublie pas d’ajouter ton API Key Streamfusion dans l’add-on.
 
-aio utiliser:
-https://aiostreams.stremio.ru/
+AIO recommandé :
+👉 https://aiostreams.stremio.ru
+👉https://aiostreams.stremiofr.com
+👉https://aio.atbphosting.com
+👉https://aiostreamsfortheweak.nhyira.dev pas encore disponible
 
 Très important activer ces deux options dans torbox
 
