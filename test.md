@@ -16,8 +16,6 @@ pas de débrideur ? ➡️ Teste Torbox ici : https://www.torbox.app/subscriptio
 
 - Filtrage strict des flux uncached provenant uniquement de Streamfusion, Jackett et Comet (recommandé pour le lien avec YGG).
 
-Optimisation complète pour Torbox, avec les options essentielles à activer (voir lien + tuto vidéo).
-❗ Note supplémentaire
 ---
 🎯 Précision FR : 100% grâce aux Regex
 
