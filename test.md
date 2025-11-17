@@ -17,7 +17,7 @@ pas de débrideur ? ➡️ Teste Torbox ici : https://www.torbox.app/subscriptio
 ---
 🎯 Précision FR : 99% grâce aux Regex
 
-Toutes les sources, groupes et tags non-FR sont automatiquement filtrés grâce à un système de regex avancées, garantissant un ciblage parfait du contenu francophone (100% de précision).
+Les contenus non-FR sont filtrés via des regex avancées. Pour le multilingue, seuls les groupes français sont autorisés
 ---
 🔧 Pour aller plus loin
 
