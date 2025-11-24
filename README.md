@@ -1,4 +1,4 @@
-# 🇫🇷 Configuration AIOStreams – Édition Française (Optimisée Torbox) 🚀
+# 🇫🇷 Configuration AIOStreams – Édition Française (Optimisée Torbox) 🚀 mais possible autre
 
 pas de débrideur ? ➡️ Teste Torbox ici : https://www.torbox.app/subscription?referral=5daecbad-00af-4e2d-af48-123ca49c1947
 ---
