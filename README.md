@@ -18,7 +18,8 @@
 
 ### 🎯 Précision FR : 99% grâce aux Regex
 
-Les contenus non-FR sont filtrés via des regex avancées. Pour le multilingue, seuls les groupes de release français reconnus sont autorisés (ex: BTM, Vostfr, TrueFrench).
+Les contenus non-FR sont filtrés via des regex avancées. Pour le multilingue, seuls les groupes de release français reconnus sont autorisés (ex: BTM, , French).
+suppression de vostfr sans multi (anglais)
 
 ---
 
