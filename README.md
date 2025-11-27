@@ -33,8 +33,11 @@ Les contenus non-FR sont filtrés via des regex avancées. Pour le multilingue, 
 ⛔⛔ *Aucune autre instance publique ne pourra fonctionner avec les regex*
 
 👉 [https://aiostreams.stremio.ru](https://aiostreams.stremio.ru)
+
 👉 [https://aiostreams.stremiofr.com](https://aiostreams.stremiofr.com)
+
 👉 [https://aio.atbphosting.com](https://aio.atbphosting.com)
+
 👉 [https://aiostreamsfortheweak.nhyira.dev](https://aiostreamsfortheweak.nhyira.dev)
 
 **Très important : activer ces deux options dans Torbox**
