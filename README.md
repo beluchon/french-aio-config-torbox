@@ -13,13 +13,13 @@
 * 🛡️ **Gestion des Flux :**
     * Flux *Unknown* autorisés uniquement pour Streamfusion, Torbox et Jackettio.
     * Filtrage strict des flux *uncached* provenant uniquement de Streamfusion, Jackett et Comet (lié avec YGG).
+    * suppression de vostfr sans multi (anglais)
 
 ---
 
 ### 🎯 Précision FR : 99% grâce aux Regex
 
 Les contenus non-FR sont filtrés via des regex avancées. Pour le multilingue, seuls les groupes de release français reconnus sont autorisés (ex: BTM, , French).
-suppression de vostfr sans multi (anglais)
 
 ---
 
