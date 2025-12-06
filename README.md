@@ -40,7 +40,10 @@ Les contenus non-FR sont filtrés via des regex avancées. Pour le multilingue, 
 
 👉 [https://aiostreamsfortheweak.nhyira.dev](https://aiostreamsfortheweak.nhyira.dev)
 
+‼️‼️‼️‼️ **Tuto Vidéo :** [https://youtu.be/LGtl-8-jMO0](https://youtu.be/LGtl-8-jMO0)
+
 **Très important : activer ces deux options dans Torbox**
 <img width="1405" height="890" alt="2025-10-15_19-33" src="https://github.com/user-attachments/assets/847f44d8-3bb8-4a7a-bdbe-3aab89f9f4f3" />
 
-‼️‼️‼️‼️ **Tuto Vidéo :** [https://youtu.be/LGtl-8-jMO0](https://youtu.be/LGtl-8-jMO0)
+---
+<img width="1152" height="648" alt="never" src="https://github.com/user-attachments/assets/e0496074-4c03-4a2f-a070-293ab32380f8" />
